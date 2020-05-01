@@ -1,6 +1,6 @@
 # Table: signatures
-|  status |   file   | hash |
-|:-------:|:--------:|:----:|
-| waiting | filename |  md5 |
-| allowed |          |      |
-|  banned |          |      |
+|  status |   file   | hash | submitter |
+|:-------:|:--------:|:----:|:---------:|
+| waiting | filename |  md5 |   email   |
+| allowed |          |      |           |
+|  banned |          |      |           |
