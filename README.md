@@ -1,7 +1,6 @@
 # Signature Selling Platform (ssp--multi)
-This whole idea was when I saw people selling their signatures by the month or lifetime.
+This whole idea was when I saw people selling their signatures slots by the month or lifetime.
 So I figured why not automate it a bit?
-Check out the [MySQL-structure](mysql-structure.md)
 
 ## Modes
 - Pure Automation
