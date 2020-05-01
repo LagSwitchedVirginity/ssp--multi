@@ -1,6 +1,7 @@
 # Signature Selling Platform (ssp--multi)
 This whole idea was when I saw people selling their signatures by the month or lifetime.
 So I figured why not automate it a bit?
+Check out the [MySQL-structure](mysql-structure.md)
 
 ## Modes
 - Pure Automation
@@ -24,8 +25,8 @@ So I figured why not automate it a bit?
   - [ ] Pure Automation
   - [ ] Approval and automation system
 - Pay System
-  - [ ] Shoppy.gg - Pure Automation only
-  - [ ] BitPay - All
+  - [ ] Shoppy.gg
+  - [ ] BitPay
 - Display System
   - [ ] Default Signature
   - [ ] Signature Size Requirement (configurable)
